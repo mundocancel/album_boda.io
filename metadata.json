@@ -1,0 +1,5 @@
+{
+  "name": "Lumina - AI Smart Gallery",
+  "description": "A next-generation photo gallery that uses Gemini AI to organize, caption, and tag your memories automatically.",
+  "requestFramePermissions": []
+}
